@@ -8,8 +8,6 @@
  */
 class TbExtendedTooltipAction extends CAction
 {
-
-
 	/**
 	 * @var string the name of the table for keeping applied migration information.
 	 * This table will be automatically created if not exists. Defaults to 'tbl_tooltip'.
